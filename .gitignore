@@ -1,3 +1,9 @@
 .DS_Store
 *.pyc
 __pycache__/
+
+.env
+.env.*
+!.env.example
+**/data/
+skills/_shared/runs/
